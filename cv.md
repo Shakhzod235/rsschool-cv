@@ -1,6 +1,6 @@
 ## Shakhzod Ikramov
----  
-![Photo](ava.jpg){width=200px}  
+---
+![Photo](ava.jpg){ width=200px }  
 Junior Frontend Developer  
 ## Contacts  
 ---  
