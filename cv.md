@@ -1,23 +1,23 @@
-**Shakhzod Ikramov**
+##Shakhzod Ikramov
 ---  
-![Photo](https://ibb.co/Z2CZ3FK)  
+![Photo](ava.jpg)  
 Junior Frontend Developer  
-**Contacts**  
+##Contacts  
 ---  
 Discord: Shakhzod Ikramov (@Shakhzod235)  
 LinkedIn: [Shakhzod Ikramov](https://www.linkedin.com/in/shakhzod-ikramov-38a50b246/)    
 Email: shakhzodikramov235@gmail.com  
-**Briefly about myself**  
+##Briefly about myself  
 ---  
 One of the things that drives my passion for Frontend development is my belief in the importance of the user experience. I am constantly seeking out new resources and tools to help me improve my skills and create web pages that are not only aesthetically pleasing but also accessible and easy to use. I attend conferences, read books and articles, and experiment with new technologies to stay up-to-date with the latest trends and best practices in the field.  
-**Skills**  
+##Skills  
 ---
 - Git  
 - HTML  
 - CSS  
 - Bootstrap  
 - Javascript  
-**Experience**  
+##Experience  
 ---  
 	+ Interactive Rating Component  
 		Repository: [Repo](https://github.com/Shakhzod235/  interactive-rating-component)  
@@ -50,10 +50,10 @@ One of the things that drives my passion for Frontend development is my belief i
 		    `}`  
 		    `return years;`  
 		`}`  
-**Courses**  
+##Courses  
 ---  
 	CS50  
-**Languages**  
+##Languages  
 --- 
 	**Russian**  
 	Bilingual proficiency  
