@@ -1,6 +1,5 @@
 ## Shakhzod Ikramov  
 ---  
-![Photo](ava.jpg)  
 ## Contacts  
 ---  
 Discord: Shakhzod Ikramov (@Shakhzod235)  
@@ -16,6 +15,7 @@ One of the things that drives my passion for Frontend development is my belief i
 - CSS  
 - Bootstrap  
 - Javascript  
+
 ## Experience  
 ---  
 	+ Interactive Rating Component  
@@ -48,7 +48,8 @@ One of the things that drives my passion for Frontend development is my belief i
 		    `years++;`  
 		    `}`  
 		    `return years;`  
-		`}`  
+		`}`
+
 ## Courses  
 ---  
 	CS50  
