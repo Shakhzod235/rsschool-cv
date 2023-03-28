@@ -1,7 +1,6 @@
-## Shakhzod Ikramov
----
-![Photo](ava.jpg){ width=200px }  
-Junior Frontend Developer  
+## Shakhzod Ikramov  
+---  
+![Photo](ava.jpg)  
 ## Contacts  
 ---  
 Discord: Shakhzod Ikramov (@Shakhzod235)  
